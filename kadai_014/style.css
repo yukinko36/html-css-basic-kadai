@@ -1,0 +1,33 @@
+html{
+  font-size: 20px;
+}
+.google-fonts{
+  font-family: "Josefin Sans", sans-serif;
+}
+body{
+  text-align: center;
+  font-size: 1rem;
+  font-family: "Arial", "Meiryo" ,sans-serif;
+}
+.decoration{
+  border-bottom: solid 3px rgb(115, 115, 114);
+  font-size: 2rem;
+  font-family: "Josefin sans",sans-serif;
+  letter-spacing: 2.4rem;
+  text-shadow: 10px 10px 30px red;
+}
+span{
+  color: skyblue;
+}
+#second-heading{
+  color: rgb(255, 192, 203);
+}
+#parent > p {
+  font-weight: bold;
+}
+#third-heading{
+  color: rgb(255, 192, 203);
+}
+#fouth-heading{
+  color: skyblue;
+}
